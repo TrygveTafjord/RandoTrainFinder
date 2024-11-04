@@ -11,6 +11,7 @@ GDAL liberary for reading the DTM data.
 
 
 ## To run code
+Note: As per now, a copy of the dtm-file is required for the project to work
 
     make clean
     ./main
