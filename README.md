@@ -5,6 +5,7 @@ Creating an algorythm for finding the shortest path to the top of a mountain usi
 Using LINUX
 
 GDAL liberary for reading the DTM data.
+    
     sudo apt update
     sudo apt install libgdal-dev gdal-bin
 
