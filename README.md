@@ -11,6 +11,7 @@ GDAL liberary for reading the DTM data.
 
 
 # To run code
-make clean
-./main
+
+    make clean
+    ./main
 
